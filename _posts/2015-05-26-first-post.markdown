@@ -27,16 +27,20 @@ Welcome to my blog(small)
 **굵게쓰기**
 
 
--대한민국
--미국
--영국
+*대한민국
+*미국
+*영국
 
 
-1.Korea
-2.USA
-3.England
- -sublist
-  -sublist
+1.  Korea
+2.  USA
+3.  England
+
+
+- 목록
+    -  하위 목록
+       * 하위 목록
+    -  하위 목록
 
 
 [인라인링크]: [Google](https://www.google.com/)
