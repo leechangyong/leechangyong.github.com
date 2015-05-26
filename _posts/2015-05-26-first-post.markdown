@@ -27,9 +27,9 @@ Welcome to my blog(small)
 **굵게쓰기**
 
 
-*대한민국
-*미국
-*영국
+* 대한민국
+* 미국
+* 영국
 
 
 1.  Korea
