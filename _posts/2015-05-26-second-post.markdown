@@ -50,7 +50,7 @@ categories: jekyll update
 
 [1]: https://www.google.com/
 
-![네이버](http://www.google.com/images/logo.gif)
+![네이버](http://img.naver.net/static/www/u/2013/0731/nmms_224940510.gif)
 
 표
 
