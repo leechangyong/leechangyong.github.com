@@ -54,18 +54,18 @@ categories: jekyll update
 
 표
 
- 항목1 | 항목2  | 항목3 | 항목4
+ 비고  | 영수  | 철수 | 민수
 -------|-------|-------|-----
- 내용1 | 내용2  | 내용39 | 내용4
- 내용5 | 내용 6 | 내용7  | 내용8
- 내용9 | 내용 10 | 내용11  | 내용12
+ 영어 | 45 | 50 | 36
+ 수학 | 100 | 80 | 29
+ 과학 | 40 | 30  | 99
 
     //코드입니다
     #include<stdio.h>
     
     int main(void)
     {
-        printf("this  is a sample\n");
+        printf("gichosolgye System");
         return 0;
     }
 
