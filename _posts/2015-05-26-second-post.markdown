@@ -5,8 +5,6 @@ date: 2015-05-26 21:20:00
 categories: jekyll update
 ---
 
-# 굵은 글씨1
-
 
 
 ## 굵은 글씨2
