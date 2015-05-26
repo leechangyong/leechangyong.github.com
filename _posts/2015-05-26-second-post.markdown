@@ -5,65 +5,53 @@ date: 2015-05-26 21:20:00
 categories: jekyll update
 ---
 
-Welcome to my blog(spyj71)
--------------------------------------
 
-Welcome to my blog(small)
-===============
+#굵은 글씨1
+##굴은 글씨2
+###굵은 글씨3
+####굵은 글씨4
+#####굵은 글씨5
+*기울여쓰기(Italic)*
+**굵게 쓰기(BOLD)**
 
+* 바나나
+* 사과
+* 수박
 
+1. 바나나
+6. 사과
+8. 수박
 
-## Welcome to my blog
+* 목록1
+    - 목록 1-1
+        * 목록 1-1-1
+    - 목록 1-1
 
-### Welcome to my blog
+>이것은 인용입니다~!
 
-#### Welcome to my blog
+* 인라인 링크 = [Google](https://google.com).
+* 참조링크 = [Google] [1].
 
-##### Welcome to my blog
-
-
-*기울여쓰기*
-
-**굵게쓰기**
-
-
--대한민국
--미국
--영국
-
-
-1.Korea
-2.USA
-3.England
- -sublist
-  -sublist
-
-
-[인라인링크]: [Google](https://www.google.com/)
-
-[참조링크]: [Google] [1].
 [1]: https://www.google.com/
 
+![네이버](http://www.google.com/images/logo.gif)
 
-Naver's image:
-![Naver](http://img.naver.net/static/www/u/2013/0731/nmms_224940510.gif).
+표
+
+ 항목1 | 항목2  | 항목3 | 항목4
+-------|-------|-------|-----
+ 내용1 | 내용2  | 내용39 | 내용4
+ 내용5 | 내용 6 | 내용7  | 내용8
+ 내용9 | 내용 10 | 내용11  | 내용12
+
+    //코드입니다
+    #include<stdio.h>
+    
+    int main(void)
+    {
+        printf("this  is a sample\n");
+        return 0;
+    }
 
 
-**Table**
-
-| Name | Phone Number | major |
-| ---- |:------------:| -----:|
-| Lee  | 01012345678  |  CSE  |
-| Kim  | 01056781234  |  CSE  |
-| Choi | 01033334444  |  CSE  |
-
-```javaScript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
 
