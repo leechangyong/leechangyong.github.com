@@ -43,9 +43,12 @@ Welcome to my blog(small)
     -  하위 목록
 
 
-[인라인링크]: [Google](https://www.google.com/)
 
-[참조링크]: [Google] [1].
+
+* 인라인링크: [Google](https://www.google.com/)
+
+
+* 참조링크: [Google] [1].
 [1]: https://www.google.com/
 
 
