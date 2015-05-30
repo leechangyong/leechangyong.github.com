@@ -58,6 +58,20 @@ FIANL010
  내용1 | 내용2  | 내용39 | 내용4
  내용5 | 내용 6 | 내용7  | 내용8
  내용9 | 내용 10 | 내용11  | 내용12
+ 
+ 
+  순위 | 나라  | 이름 | 점수
+------|-------|------|-----
+ 1 |중국   | CHEN Long       | 92441 
+ 2 |중국   | LIN Dan         | 74137 
+ 3 |덴마크 | Jan O JORGENSEN | 74017  
+ 4 |인도   | K.SRIKANTH      | 69164  
+ 5 |한국   | Son Wan HO      | 60905 
+ 6 |TPE    | CHOU Tien Chen  | 60248  
+ 7 |중국   | WANG Zhengming  | 59470  
+ 8 |일본   | Kento MOMOTA    | 59143 
+ 9 |덴마크 | viktor AXELSEN  | 557939  
+10 |중국   | TIAN Houwei     | 53730  
 
     //코드입니다
     #include<stdio.h>
