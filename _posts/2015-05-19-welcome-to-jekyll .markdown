@@ -18,8 +18,7 @@
  3 |덴마크 | ![덴마크](http://postfiles6.naver.net/20150530_69/arc1804_14329770158260jrTO_PNG/%BC%F6%C1%A4_%B5%A7%B8%B6%C5%A9.png?type=w3) [Jan O JORGENSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108272) | 74017  
  4 |인도   | [K.SRIKANTH](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=216143)      | 69164  
  5 |한국   | ![한국](http://postfiles5.naver.net/20150530_36/arc1804_1432976936087PRz9C_PNG/%BC%F6%C1%A4%C7%D1%B1%B9.png?type=w3) [Son Wan HO](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108069)      | 60905 
- 6 |TPE    | ![tbe](http://postfiles10.naver.net/20150530_281/arc1804_1432977277224kSWne_PNG/%BC%F6%C1%A4_tbe.png?type=w3)
- [CHOU Tien Chen](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109227)  | 60248  
+ 6 |TPE    | [CHOU Tien Chen](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109227)  | 60248  
  7 |중국   | ![중국](http://postfiles9.naver.net/20150530_88/arc1804_1432976807509xPuOP_PNG/%BC%F6%C1%A4%C2%F7%C0%CC%B3%AA.png?type=w3) [WANG Zhengming](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=141307)  | 59470  
  8 |일본   | ![일본](http://postfiles14.naver.net/20150530_29/arc1804_1432976411426oLfvN_PNG/%BC%F6%C1%A4%C0%CF%BA%BB.png?type=w3)[Kento MOMOTA](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=157159)     | 59143 
  9 |덴마크 | ![덴마크](http://postfiles6.naver.net/20150530_69/arc1804_14329770158260jrTO_PNG/%BC%F6%C1%A4_%B5%A7%B8%B6%C5%A9.png?type=w3) [viktor AXELSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=147387)  | 557939  
