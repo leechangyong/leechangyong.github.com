@@ -13,7 +13,7 @@
 
  순위 | 나라  | 이름 | 점수
 ------|-------|------|-----
- 1 |중국   | [CHEN Long](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
+ 1 |중국   | [CHEN Long![네이버](http://www.google.com/images/logo.gif)](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
  2 |중국   | [LIN Dan](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109370)         | 74137 
  3 |덴마크 | [Jan O JORGENSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108272) | 74017  
  4 |인도   | [K.SRIKANTH](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=216143)      | 69164  
@@ -23,3 +23,7 @@
  8 |일본   | [Kento MOMOTA](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=157159)    | 59143 
  9 |덴마크 | [viktor AXELSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=147387)  | 557939  
 10 |중국   | [TIAN Houwei](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=143772)     | 53730  
+
+
+
+![네이버](http://www.google.com/images/logo.gif)
