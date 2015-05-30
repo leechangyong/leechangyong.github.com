@@ -26,5 +26,5 @@
 
 
 
-![태극기](https://www.dropbox.com/s/43dugxyeosz6p66/%ED%83%9C%EA%B7%B9%EA%B8%B0.jpg?dl=0)
-![덴마크](https://www.dropbox.com/s/e5xh3rssh0qw8xm/%EB%8D%B4%EB%A7%88%ED%81%AC.png?dl=0)]
+![태극기](https://www.dropbox.com/s/43dugxyeosz6p66/%ED%83%9C%EA%B7%B9%EA%B8%B0.jpg?dl=0).
+![덴마크](https://www.dropbox.com/s/e5xh3rssh0qw8xm/%EB%8D%B4%EB%A7%88%ED%81%AC.png?dl=0).
