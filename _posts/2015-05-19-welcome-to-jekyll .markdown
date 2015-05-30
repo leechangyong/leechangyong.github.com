@@ -26,7 +26,7 @@
 
 
 
-![중국](http://postfiles14.naver.net/20150530_109/arc1804_1432975649188p1oeK_PNG/%C1%DF%B1%B9.png?type=w3).
+![중국](http://postfiles14.naver.net/20150530_109/arc1804_1432975649188p1oeK_PNG/%C1%DF%B1%B9.png?type=w3 height="20").
 
 ![인도](http://postfiles14.naver.net/20150530_221/arc1804_14329756489955ciQG_PNG/%C0%CE%B5%B5.png?type=w3).
 
