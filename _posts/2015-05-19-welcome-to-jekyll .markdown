@@ -20,7 +20,7 @@
  5 |한국   | [Son Wan HO](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108069)      | 60905 
  6 |TPE    | [CHOU Tien Chen](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109227)  | 60248  
  7 |중국   | [WANG Zhengming](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=141307)  | 59470  
- 8 |일본   | [Kento MOMOTA](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=157159)    | 59143 
+ 8 |일본   | [Kento MOMOTA](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=157159) ![일본](http://postfiles14.naver.net/20150530_29/arc1804_1432976411426oLfvN_PNG/%BC%F6%C1%A4%C0%CF%BA%BB.png?type=w3)    | 59143 
  9 |덴마크 | [viktor AXELSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=147387)  | 557939  
 10 |중국   | [TIAN Houwei](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=143772)     | 53730  
 
