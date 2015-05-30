@@ -13,7 +13,7 @@
 
  순위 | 나라  | 이름 | 점수
 ------|-------|------|-----
- 1 |중국   | [CHEN Long![덴마크](https://www.dropbox.com/s/e5xh3rssh0qw8xm/%EB%8D%B4%EB%A7%88%ED%81%AC.png?dl=0)](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
+ 1 |중국   | [CHEN Long](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
  2 |중국   | [LIN Dan](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109370)         | 74137 
  3 |덴마크 | [Jan O JORGENSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108272) | 74017  
  4 |인도   | [K.SRIKANTH](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=216143)      | 69164  
@@ -26,6 +26,14 @@
 
 
 
-![태극기](https://www.dropbox.com/s/43dugxyeosz6p66/%ED%83%9C%EA%B7%B9%EA%B8%B0.jpg?dl=0).
-![덴마크](https://www.dropbox.com/s/e5xh3rssh0qw8xm/%EB%8D%B4%EB%A7%88%ED%81%AC.png?dl=0).
-![](https://www.dropbox.com/s/43dugxyeosz6p66/%ED%83%9C%EA%B7%B9%EA%B8%B0.jpg?dl=0)
+![중국](http://postfiles14.naver.net/20150530_109/arc1804_1432975649188p1oeK_PNG/%C1%DF%B1%B9.png?type=w3).
+
+![인도](http://postfiles14.naver.net/20150530_221/arc1804_14329756489955ciQG_PNG/%C0%CE%B5%B5.png?type=w3).
+
+![덴마크](http://postfiles9.naver.net/20150530_56/arc1804_1432975648821yxmB8_PNG/%B5%A7%B8%B6%C5%A9.png?type=w3).
+
+![한국](http://postfiles8.naver.net/20150530_87/arc1804_14329756493002Y50Y_JPEG/%C5%C2%B1%D8%B1%E2.jpg?type=w3).
+
+![일본]http://postfiles14.naver.net/20150530_125/arc1804_1432976037297sN5iI_PNG/%B4%D9%BF%EE%B7%CE%B5%E5.png?type=w3
+
+
