@@ -1,15 +1,9 @@
----
-layout: post
-title: "hand"
-date: 2015-05-31 13:46:00
-categories: jekyll update
----
 
 손목보호대입니다.
 --------------------
 
 ## 가격 : 5,000원
 
-![손목보호대](http://gdimg1.gmarket.co.kr/goods_image2/shop_img/658/930/658930049.jpg)
+![손목보호대](http://www.badmintonmarket.co.kr/data/shopimages/product/052002001003000001.jpg)
 
 [사러가기](http://www.badmintonmarket.co.kr/front/productdetail.php?productcode=052002001003000001)
