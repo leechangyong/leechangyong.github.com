@@ -21,7 +21,12 @@
         <a href="http://leechangyong.github.io/2015/06/02/Goods.html" title="배드민턴 용품" target="_self" style="margin-left:10px"><배드민턴 용품></a>
         <a href="http://leechangyong.github.io/2015/06/02/club.html"  title="천안 배드민턴 클럽" target="_self" style="margin-left:10px"><천안 배드민턴 클럽></a>
       </ul>
-		헤드라인 | 상세 보기 
+    </center>
+  </body>
+</html>
+
+
+	헤드라인 | 상세 보기 
 :---:|:---:
 [호주오픈] 남복 '이용대-유연성' 중국 꺽고 우승!|[Go!!](http://leechangyong.github.io/2015/05/31/Newspost1.html)
 배드민턴 리총웨이 '부주의로 도핑'…내달 복귀 가능|[Go!!](http://leechangyong.github.io/2015/05/31/Newspost3.html)
@@ -31,6 +36,3 @@
 
 
 [홈으로](http://leechangyong.github.io)
-    </center>
-  </body>
-</html>
