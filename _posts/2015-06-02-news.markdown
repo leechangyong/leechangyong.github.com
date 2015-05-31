@@ -1,7 +1,7 @@
 |[배드민턴 뉴스](http://leechangyong.github.io/2015/06/02/news.html)|
 
-헤드라인 | 상세 보기 
-:---:|:---:배드민턴 뉴스 
+|헤드라인 | 상세 보기 |
+배드민턴 뉴스 
 [호주오픈] 남복 '이용대-유연성' 중국 꺽고 우승!|[Go!!](http://leechangyong.github.io/2015/05/31/Newspost1.html)
 배드민턴 리총웨이 '부주의로 도핑'…내달 복귀 가능|[Go!!](http://leechangyong.github.io/2015/05/31/Newspost3.html)
 [호주오픈] 남복 '이용대-유연성' 중국 꺽고 4강 진출!|[Go!!](http://leechangyong.github.io/2015/05/31/Newspost5.html)
