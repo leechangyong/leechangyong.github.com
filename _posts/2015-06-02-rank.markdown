@@ -2,7 +2,7 @@
 
 순위 | 나라  | 이름 | 점수
 ------|-------|------|-----
- 1 |중국   | ![중국](http://postfiles9.naver.net/20150530_88/arc1804_1432976807509xPuOP_PNG/%BC%F6%C1%A4%C2%F7%C0%CC%B3%AA.png?type=w3) [CHEN Long](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
+ 1 |중국   | ![중국][id1] [CHEN Long](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
  2 |중국   | ![중국](http://postfiles9.naver.net/20150530_88/arc1804_1432976807509xPuOP_PNG/%BC%F6%C1%A4%C2%F7%C0%CC%B3%AA.png?type=w3) [LIN Dan](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109370)         | 74137 
  3 |덴마크 | ![덴마크](denmark.png) [Jan O JORGENSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108272) | 74017  
  4 |인도   | ![인도](india.png) [K.SRIKANTH](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=216143)      | 69164  
@@ -12,3 +12,5 @@
  8 |일본   | ![일본](japan.png)[Kento MOMOTA](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=157159)     | 59143 
  9 |덴마크 | ![덴마크](denmark.png) [viktor AXELSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=147387)  | 57939  
 10 |중국   | ![중국](china.png) [TIAN Houwei](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=143772)     | 53730  
+
+[id1]: http://postfiles9.naver.net/20150530_88/arc1804_1432976807509xPuOP_PNG/%BC%F6%C1%A4%C2%F7%C0%CC%B3%AA.png?type=w3
