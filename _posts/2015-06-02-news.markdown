@@ -1,3 +1,4 @@
+<!docktype html>
 <html>
   <head>
     <style>
@@ -7,6 +8,7 @@
         margin-right:auto;
       }
     </style>
+    <title>배드민턴 블로그</title>
  </head>
  <body>
     <br><br><br><br><br>
