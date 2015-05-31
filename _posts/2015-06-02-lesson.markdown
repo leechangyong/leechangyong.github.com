@@ -2,10 +2,10 @@
 
 레슨명 | 레슨 영상 
 :---:|:---:
-###배드민턴 스매싱 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson1.html)
-###배드민턴 서브&리시브 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson2.html)
-###배드민턴 드라이브 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson3.html)
-###배드민턴 푸시 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson4.html)
-###배드민턴 헤어핀 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson5.html)
+배드민턴 스매싱 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson1.html)
+배드민턴 서브&리시브 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson2.html)
+배드민턴 드라이브 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson3.html)
+배드민턴 푸시 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson4.html)
+배드민턴 헤어핀 레슨|[Go!!](http://leechangyong.github.io/2015/06/02/lesson5.html)
 
 [홈으로](http://leechangyong.github.io)
