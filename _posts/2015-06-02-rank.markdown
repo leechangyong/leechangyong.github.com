@@ -2,8 +2,8 @@
 
 순위 | 나라  | 이름 | 점수
 ------|-------|------|-----
- 1 |중국   | ![중국](china.png). [CHEN Long](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
- 2 |중국   | ![중국](china.png). [LIN Dan](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109370)         | 74137 
+ 1 |중국   | ![중국](./china.png) [CHEN Long](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
+ 2 |중국   | ![중국](./china.png) [LIN Dan](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109370)         | 74137 
  3 |덴마크 | ![덴마크](denmark.png) [Jan O JORGENSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108272) | 74017  
  4 |인도   | ![인도](india.png) [K.SRIKANTH](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=216143)      | 69164  
  5 |한국   | ![한국](korea.png) [Son Wan HO](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108069)      | 60905 
